@@ -1,8 +1,30 @@
-# OpenCut AI
+# 
+MORA-FORGE-AI
+Copyright (c) 2026 Omar Boghdadi
 
-**Android-First AI Video Editing Skill for Shorts, Reels, and TikTok**
+ALL RIGHTS RESERVED.
 
-OpenCut AI is an open-source Agent Skill that helps compatible AI coding agents plan, automate, and verify short-form video edits. It is designed Android-first, with Windows and Linux support planned through capability detection.
+This repository and all associated source code, documentation,
+designs, workflows, scripts, and project materials are the
+exclusive property of Omar Boghdadi.
+
+No permission is granted to any person or entity to:
+
+- Copy, reproduce, or redistribute this project or any part of it.
+- Modify, adapt, or create derivative works.
+- Use this project commercially or privately.
+- Publish, sublicense, sell, or distribute copies of this project.
+
+Viewing this public repository does not grant any license or
+ownership rights.
+
+Any use, reproduction, modification, or distribution requires
+prior written permission from the copyright owner.
+
+Unauthorized use is prohibited.
+
+For licensing and commercial inquiries, contact the copyright owner.
+.
 
 > **Status: early scaffold (v0.1.0).** This repository is not yet a complete video editor or Android application. The first release provides workflow instructions, a tool-selection strategy, environment diagnostics, and validation tests. Editing operations become executable only when a compatible engine is installed and available to the agent.
 
