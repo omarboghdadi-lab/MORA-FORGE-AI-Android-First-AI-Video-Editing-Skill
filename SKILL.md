@@ -1,5 +1,5 @@
 ---
-name: opencut-ai
+name: MORA-FORGE-AI
 description: "Plan, automate, validate, and export short-form videos for Reels, Shorts, and TikTok using available local or remote media tools. Use when an agent is asked to edit, assemble, enhance, subtitle, mix, or export short videos on Android, Windows, or Linux."
 license: MIT
 compatibility: "Requires an agent client that supports Agent Skills and permission to execute local scripts. Actual editing capabilities depend on installed media tools and the host OS. Android support is device- and runtime-dependent."
